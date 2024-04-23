@@ -7,5 +7,6 @@ Dashboard
 Transaction
 ![image](https://github.com/yzj-jzy/Expense-Tracker/assets/80561240/d85c4450-649a-49de-8679-12645d35fceb)
 Category
-![image](https://github.com/yzj-jzy/Expense-Tracker/assets/80561240/1244aed2-8696-4f62-bba1-452d69f0ac53)
+![image](https://github.com/yzj-jzy/Expense-Tracker/assets/80561240/6b55ce31-fcb4-41f5-bf5f-a9d2c4e44dd4)
+
 
